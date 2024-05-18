@@ -1,16 +1,20 @@
-# firebasetask
+# FireBase_Notestask
+Step 1
+Download and open the file and open it in vscode ,
 
-A new Flutter project.
+Step 2 
 
-## Getting Started
+Run the Commant "flutter pub get" on terminal 
 
-This project is a starting point for a Flutter application.
+step 3 
+after run run  "flutter build apk --profile" this command 
 
-A few resources to get you started if this is your first Flutter project:
+Step 4
+then go to (build\app\outputs\flutter-apk\app-profile.apk ) this folder and you will get an app-profile.apk there 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Step5 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+install and run 
+ 
+In Application you need to register your account first then you can login with that credentials , in homepage you can Add Notes and you can select deadline and expected date by clicking that suffix icon.
+You can edit the notes by clicking pencil icon and you can delete the notes by clicking delete icon .
